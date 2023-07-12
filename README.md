@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-webkyat&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-webkyat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-webkyat" alt="anurag-webkyat" /></a> </p>
-
 - 🔭 I’m currently working on **webkyat business solutions**
 
 - 🌱 I’m currently learning **Node , mongo db**
@@ -15,10 +11,14 @@
 
 - ⚡ Fun fact **I think i am funny**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-webkyat&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-webkyat" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-webkyat" alt="anurag-webkyat" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/never.blooom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/never.blooom/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uceshs23jfp9vcxcm3f7zecw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceshs23jfp9vcxcm3f7zecw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@anukarimulacal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@anukarimulacal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-webkyat&show_icons=true&locale=en&layout=compact" alt="anurag-webkyat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-webkyat&show_icons=true&locale=en" alt="anurag-webkyat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-webkyat&" alt="anurag-webkyat" /></p>
