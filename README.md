@@ -99,6 +99,27 @@ My passion lies in architecting databases, optimizing server-side logic, and ens
 
 <br/>
 
+<!-- WHAT I DO / SERVICES (NEW SECTION) -->
+<h2>🚀 &nbsp;What I Do</h2>
+<table align="center">
+<tr>
+<td width="33%" align="center">
+<h3>🔗 API Development</h3>
+<p>Building RESTful & GraphQL APIs with seamless third-party integrations.</p>
+</td>
+<td width="33%" align="center">
+<h3>🗄️ Database Design</h3>
+<p>Optimizing schemas + queries for MySQL, MongoDB, and PostgreSQL.</p>
+</td>
+<td width="33%" align="center">
+<h3>⚙️ System Architecture</h3>
+<p>Designing scalable, microservice-ready backend infrastructures.</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- FEATURED PROJECTS -->
 <h2>🏆 &nbsp;Featured Projects</h2>
 <p>Some of the best projects I've worked on:</p>
@@ -126,6 +147,31 @@ My passion lies in architecting databases, optimizing server-side logic, and ens
 
 <br/>
 
+<!-- CODING PHILOSOPHY & GEAR (NEW SECTION) -->
+<h2>⚙️ &nbsp;Tools & Philosophy</h2>
+<table border="0">
+<tr>
+<td width="50%">
+<h3>📌 My Coding Philosophy</h3>
+<ul>
+<li><b>Clean Code:</b> Readable > Clever. Always maintainable.</li>
+<li><b>Security First:</b> Never trust user input. Sanitize everything.</li>
+<li><b>Optimized:</b> Big O matters when scaling to millions.</li>
+</ul>
+</td>
+<td width="50%">
+<h3>💻 My Gear</h3>
+<ul>
+<li><b>OS:</b> macOS / Linux (Ubuntu Server)</li>
+<li><b>Editor:</b> VS Code (The ultimate weapon)</li>
+<li><b>Terminal:</b> Zsh + OhMyZsh</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- CONTRIBUTION GRAPH (SNAKE) -->
 <h2>🐍 &nbsp;Coding Activity</h2>
 <div align="center">
@@ -142,6 +188,14 @@ My passion lies in architecting databases, optimizing server-side logic, and ens
 <img src="https://github-profile-trophy.vercel.app/?username=anurag-webkyat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 </details>
+
+<br/>
+<br/>
+
+<!-- QUOTE (NEW SECTION) -->
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 <br/>
 
